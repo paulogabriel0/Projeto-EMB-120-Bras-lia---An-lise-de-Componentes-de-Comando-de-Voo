@@ -34,8 +34,27 @@ A análise detalhada auxilia no entendimento de como cada componente se integra 
 
 [FichaTecnica-emb120.pdf](https://github.com/user-attachments/files/20742782/FichaTecnica-emb120.pdf)
 
+## 📅 Atualização do Projeto  
+
+https://www.canva.com/design/DAGpD9FWH6c/DjOmSvL1hK8BYkk8kbOBaA/edit?utm_content=DAGpD9FWH6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Apresentamos este projeto à **Coordenação do Curso de Manutenção de Aeronaves da FATEC Prof. Jessen Vidal – São José dos Campos**, onde obtivemos **grande reconhecimento pelo trabalho desenvolvido**.
+
+Com satisfação, fomos selecionados para representar nosso semestre na **Feira de Soluções da própria FATEC**, evento que promove projetos acadêmicos de destaque, inovação e aplicação prática.
+
+Esse resultado reforça o comprometimento da equipe na busca pelo desenvolvimento técnico, pela qualidade na execução e pela integração entre teoria e prática, pilares fundamentais para a formação de profissionais na aviação.
+
+Este estudo reforça o papel crucial da integração entre teoria e prática na formação de técnicos e engenheiros aeronáuticos. A preservação e, quando possível, a recuperação dos sistemas didáticos são fundamentais para garantir uma formação de qualidade, alinhada às exigências do mercado e da segurança operacional.
+
+---
+
+🌟 **Agradecemos à FATEC, aos professores e colegas envolvidos que tornaram este projeto possível!**
+
 ## 🎯 Objetivo
 
 Nosso objetivo é contribuir com a comunidade acadêmica e técnica, oferecendo um material de apoio que auxilie estudantes, pesquisadores e profissionais da área aeronáutica no desenvolvimento de seus estudos e projetos. Acreditamos que **compartilhar conhecimento é fundamental** para o avanço contínuo do setor, fortalecendo tanto a formação acadêmica quanto o entendimento prático das tecnologias aplicadas na aviação.
 
 ---
+
+
+
