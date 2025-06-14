@@ -38,6 +38,9 @@ A análise detalhada auxilia no entendimento de como cada componente se integra 
 
 https://www.canva.com/design/DAGpD9FWH6c/DjOmSvL1hK8BYkk8kbOBaA/edit?utm_content=DAGpD9FWH6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+[EMB-120 FINAL.pdf](https://github.com/user-attachments/files/20742844/EMB-120.FINAL.pdf)
+
+
 Apresentamos este projeto à **Coordenação do Curso de Manutenção de Aeronaves da FATEC Prof. Jessen Vidal – São José dos Campos**, onde obtivemos **grande reconhecimento pelo trabalho desenvolvido**.
 
 Com satisfação, fomos selecionados para representar nosso semestre na **Feira de Soluções da própria FATEC**, evento que promove projetos acadêmicos de destaque, inovação e aplicação prática.
